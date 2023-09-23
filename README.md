@@ -1,6 +1,6 @@
 Project Overview
 Objective
-Create an interactive Kanban board application using React JS that interacts with the provided API from https://api.quicksell.co/v1/internal/frontend-assignment.
+Create an interactive Kanban board application using React JS that interacts with the provided API.
 
 Features
 Display tickets in a Kanban board.
@@ -19,23 +19,17 @@ Technologies Used
 React JS
 Axios (for API requests)
 CSS (for styling)
-React Router (for navigation)
 
 
 Folder Structure
 src/
 components/: React components.
 services/: API service functions.
-App.js: Main application component.
+App/:App.js: Main application component.
+App/:Functions
 index.js: Entry point of the application.
-Screenshots
-Kanban Board Screenshot
 
-API Documentation
-You can find API documentation at https://api.quicksell.co/v1/internal/frontend-assignment.
 
-Acknowledgments
-Thanks to Quicksell for providing the API.
 Author
 Bhavarth Bhangdia
 Feel free to customize this README template according to your project's specific details. Make sure to update the placeholders with actual information and provide clear instructions on how to run and use your Kanban board application.
