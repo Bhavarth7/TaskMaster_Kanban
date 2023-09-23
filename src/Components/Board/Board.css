@@ -1,0 +1,51 @@
+ .board {
+    min-width: 250px;
+    background-color: #82b5ec; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 4px rgba(17, 46, 211, 0.1); 
+    padding: 15px; 
+  }
+  p{
+    color: black;
+  }
+  .board-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .board-top-left {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+.board-title{
+  font-size: 18px;
+}
+  .board-count {
+    font-size: 16px; 
+    color: #050579; 
+    font-weight: 400;
+    
+  }
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+  }
+  
+  .logo-pic {
+    height: 14px;
+    width: 18px;
+    border-radius: 50%;
+    background-color: #83b0e1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #fff;
+  }
+
+
+    
